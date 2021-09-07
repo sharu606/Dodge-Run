@@ -1,4 +1,4 @@
-# dodge-and-run
+# Dodge & Run
 **PS:** As Unity packages are really huge, we couldn't use github as our version control instead we used **Unity Collab**. Therefore, This repository only consists of our **C# scripts** which were used for the functionality of the game.  
 
 ## Description
